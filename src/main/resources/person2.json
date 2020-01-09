@@ -1,0 +1,31 @@
+[
+  {
+    "cat": {
+      "name": "geza",
+      "age": 0
+    },
+    "lastname": "Feri",
+    "firstname": "Kiss",
+    "age": 19,
+    "isMale": true,
+    "id": 1000
+  },
+  {
+    "cat": {
+      "name": "joska",
+      "age": 0
+    },
+    "lastname": "Géza",
+    "firstname": "Kiss",
+    "age": 18,
+    "isMale": false,
+    "id": 1001
+  },
+  {
+    "lastname": "Jóska",
+    "firstname": "Kiss",
+    "age": 18,
+    "isMale": false,
+    "id": 1002
+  }
+]

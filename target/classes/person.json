@@ -1,0 +1,29 @@
+[
+        {
+                "lastname": "Feri",
+                "firstname": "Kiss",
+                "age": 18,
+                "isMale": false,
+                "id": 1000,
+                "cat": {
+                        "name": "geza"
+                }
+        },
+        {
+                "lastname": "Géza",
+                "firstname": "Kiss",
+                "age": 18,
+                "isMale": false,
+                "id": 1001,
+                "cat": {
+                        "name": "joska"
+                }
+        },
+        {
+                "lastname": "Jóska",
+                "firstname": "Kiss",
+                "age": 18,
+                "isMale": false,
+                "id": 1002
+        }
+]
